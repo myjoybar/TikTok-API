@@ -1,0 +1,191 @@
+{
+  "status_code": 0,
+  "user": {
+    "location": "",
+    "following_count": 18,
+    "follower_count": 27,
+    "total_favorited": 2,
+    "commerce_user_level": 0,
+    "room_id": 0,
+    "with_luban_entry": false,
+    "is_blocked": false,
+    "follow_status": 2,
+    "follower_status": 1,
+    "with_new_goods": false,
+    "story_open": false,
+    "original_musician": {
+      "music_count": 0,
+      "music_used_count": 0,
+      "digg_count": 0
+    },
+    "iso_country_code": "",
+    "activity": {
+      "use_music_count": 0,
+      "digg_count": 0
+    },
+    "province": "",
+    "relative_users": null,
+    "nickname": "Locke Mong",
+    "aweme_count": 2,
+    "is_block": false,
+    "geofencing": [],
+    "gender": 0,
+    "weibo_schema": "",
+    "with_commerce_entry": false,
+    "city": "",
+    "item_list": null,
+    "uid": "6705973372813394949",
+    "sync_to_toutiao": 0,
+    "react_setting": 0,
+    "country": "",
+    "sec_uid": "MS4wLjABAAAAzZ_XruUr9X1L6AnSPaiOBWcDT6MN-Oc368qp-LjvP1c91QrRQSdtTq1OPdmpZBuk",
+    "verify_info": "",
+    "show_image_bubble": false,
+    "dongtai_count": 2,
+    "enterprise_verify_reason": "",
+    "youtube_channel_title": "",
+    "new_story_cover": null,
+    "ad_cover_url": null,
+    "with_stick_entry": false,
+    "comment_setting": 0,
+    "mplatform_followers_count": 0,
+    "ins_id": "",
+    "duet_setting": 0,
+    "reflow_page_gid": 0,
+    "video_icon_virtual_URI": "",
+    "weibo_verify": "",
+    "user_period": 0,
+    "favoriting_count": 0,
+    "followers_detail": [{
+      "app_name": "aweme",
+      "name": "抖音",
+      "icon": "http://p3.pstatp.com/origin/50ec00079b64de2050dc",
+      "fans_count": 0,
+      "open_url": "snssdk1128://user/profile/0?",
+      "apple_id": "1142110895",
+      "download_url": "https://d.douyin.com/JsvN/",
+      "package_name": "com.ss.android.ugc.aweme"
+    }, {
+      "package_name": "com.ss.android.article.news",
+      "app_name": "news_article",
+      "name": "头条",
+      "icon": "http://p3.pstatp.com/origin/50ed00079a1b6b8d1fb1",
+      "fans_count": 0,
+      "open_url": "snssdk143://profile?uid=0",
+      "apple_id": "529092160",
+      "download_url": "https://d.toutiao.com/YjjY/"
+    }, {
+      "name": "火山",
+      "icon": "http://p3.pstatp.com/origin/551900041a7e00ec86ca",
+      "fans_count": 0,
+      "open_url": "snssdk1112://profile?id=0",
+      "apple_id": "1086047750",
+      "download_url": "http://d.huoshanzhibo.com/eFvB/",
+      "package_name": "com.ss.android.ugc.live",
+      "app_name": "live_stream"
+    }],
+    "special_lock": 1,
+    "has_activity_medal": false,
+    "avatar_larger": {
+      "url_list": ["http://p16.muscdn.com/obj/musically-maliva-obj/1637202070785030"],
+      "uri": ""
+    },
+    "avatar_thumb": {
+      "uri": "",
+      "url_list": ["http://p16.muscdn.com/obj/musically-maliva-obj/1637202070785030"]
+    },
+    "is_effect_artist": false,
+    "video_icon": {
+      "uri": "",
+      "url_list": []
+    },
+    "share_qrcode_uri": "",
+    "is_verified": false,
+    "is_gov_media_vip": false,
+    "constellation": 0,
+    "recommend_reason_relation": "",
+    "custom_verify": "",
+    "share_info": {
+      "share_title_myself": "This musical.ly app is soooooo fun! Follow me @lockemong on musical.ly and check out my videos!",
+      "share_weibo_desc": "musical.ly: Global Video Community",
+      "share_title": "Join musical.ly and see what I've been up to!",
+      "share_qrcode_url": {
+        "uri": "",
+        "url_list": []
+      },
+      "bool_persist": 1,
+      "share_title_other": "This musical.ly user is really cool. Follow @lockemong on musical.ly and check out those amazing videos!",
+      "share_url": "https://m.tiktok.com/h5/share/usr/6705973372813394949.html?language=en&sec_uid=MS4wLjABAAAAzZ_XruUr9X1L6AnSPaiOBWcDT6MN-Oc368qp-LjvP1c91QrRQSdtTq1OPdmpZBuk&u_code=d7039ei40ijc9g",
+      "share_desc": "musical.ly: Global Video Community",
+      "share_image_url": {
+        "uri": "tos-maliva-p-0068/9c93d3c4aa8843a68168bba3b15c386d",
+        "url_list": ["https://m-p16.akamaized.net/obj/tos-maliva-p-0068/9c93d3c4aa8843a68168bba3b15c386d"]
+      }
+    },
+    "verification_type": 0,
+    "avatar_uri": "",
+    "latest_order_time": 0,
+    "school_poi_id": "",
+    "secret": 0,
+    "reflow_page_uid": 0,
+    "avatar_168x168": {
+      "uri": "",
+      "url_list": ["http://p16.muscdn.com/obj/musically-maliva-obj/1637202070785030"]
+    },
+    "avatar_300x300": {
+      "url_list": ["http://p16.muscdn.com/obj/musically-maliva-obj/1637202070785030"],
+      "uri": ""
+    },
+    "unique_id": "lockemong",
+    "live_commerce": false,
+    "is_pro_account": false,
+    "hide_following_follower_list": 0,
+    "avatar_medium": {
+      "uri": "",
+      "url_list": ["http://p16.muscdn.com/obj/musically-maliva-obj/1637202070785030"]
+    },
+    "unique_id_modify_time": 1561706663,
+    "weibo_url": "",
+    "download_setting": 0,
+    "with_commerce_enterprise_tab_entry": false,
+    "user_canceled": false,
+    "user_mode": 1,
+    "birthday": "1900-01-01",
+    "star_use_new_download": true,
+    "account_region": "",
+    "youtube_channel_id": "",
+    "has_insights": false,
+    "type_label": null,
+    "signature_language": "un",
+    "short_id": "0",
+    "hide_location": false,
+    "apple_account": 0,
+    "twitter_name": "",
+    "district": "",
+    "birthday_hide_level": 0,
+    "with_fusion_shop_entry": false,
+    "signature": "",
+    "bind_phone": "",
+    "platform_sync_info": null,
+    "prevent_download": false,
+    "cha_list": null,
+    "wx_tag": 0,
+    "profile_tab_type": 0,
+    "watch_status": true,
+    "region": "US",
+    "with_shop_entry": false,
+    "download_prompt_ts": 0,
+    "cover_url": [{
+      "uri": "musically-maliva-obj/1612555907887110",
+      "url_list": ["https://m-p16.akamaized.net/obj/musically-maliva-obj/1612555907887110"]
+    }],
+    "is_star": false,
+    "twitter_id": ""
+  },
+  "extra": {
+    "now": 1561706663000
+  },
+  "log_pb": {
+    "impr_id": "20190628072423010110134141260A9B"
+  }
+}

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context=".MainActivity">
+
+<LinearLayout
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:gravity="center_horizontal"
+  android:orientation="vertical"
+  tools:context=".MainActivity">
+
+  <Button
+    android:id="@+id/btn_login1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="1. Login with email"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_login2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="2. Login with userName"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_get_user_info"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="3. get userInfo with userId"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_get_followers"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="4. get followers"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_get_following"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="5. get following"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_get_post_list"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="6. get post list"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_get_post_favorite_list"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="7. get favorite post list"
+    android:textAllCaps="false"
+    />
+
+
+  <Button
+    android:id="@+id/btn_get_post"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="8. get post detail"
+    android:textAllCaps="false"
+    />
+
+
+  <Button
+    android:id="@+id/btn_play_post"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="9. play post"
+    android:textAllCaps="false"
+    />
+
+
+  <Button
+    android:id="@+id/btn_follow_an_user"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="10. follow an user"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_unfollow_an_user"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="11. unfollow an user"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_like_post"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="12. like a post"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_unlike_post"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="13. unlike a post"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_post_commnent"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="14. post a commnent"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_post_commnent_list"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="15. post  commnent list"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_upload_image"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="16. upload  images"
+    android:textAllCaps="false"
+    />
+
+  <Button
+    android:id="@+id/btn_update_userinfo"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="17. update user info"
+    android:textAllCaps="false"
+    />
+</LinearLayout>
+</ScrollView>

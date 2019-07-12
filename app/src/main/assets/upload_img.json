@@ -1,0 +1,15 @@
+{
+  "status_code": 0,
+  "data": {
+    "url_list": ["https://m-p16.akamaized.net/obj/musically-maliva-obj/1638459719086086", "https://m-p16.akamaized.net/obj/musically-maliva-obj/1638459719086086", "https://m-p16.akamaized.net/obj/musically-maliva-obj/1638459719086086"],
+    "uri": "musically-maliva-obj/1638459719086086"
+  },
+  "log_pb": {
+    "impr_id": "20190708033552010110222054417E47"
+  },
+  "extra": {
+    "logid": "20190708033552010110222054417E47",
+    "now": 1562556952621,
+    "fatal_item_ids": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "status_code": 0,
+  "log_pb": {
+    "impr_id": "201907080530560101102220049447DD"
+  },
+  "user": {
+    "weibo_schema": "",
+    "uid": "6706016724343882758",
+    "weibo_url": "",
+    "share_qrcode_uri": "",
+    "youtube_channel_id": "",
+    "weibo_name": "",
+    "video_icon": {
+      "url_list": [],
+      "uri": ""
+    },
+    "avatar_larger": {
+      "url_list": ["http://p16.muscdn.com/img/musically-maliva-obj/1638466821449733~c5_1080x1080.jpeg"],
+      "uri": "musically-maliva-obj/1638466821449733"
+    },
+    "google_account": "",
+    "youtube_channel_title": "",
+    "apple_account": 0,
+    "short_id": "43955652080",
+    "verification_type": 0,
+    "secret": 0,
+    "avatar_medium": {
+      "url_list": ["http://p16.muscdn.com/img/musically-maliva-obj/1638466821449733~c5_720x720.jpeg"],
+      "uri": "musically-maliva-obj/1638466821449733"
+    },
+    "avatar_thumb": {
+      "url_list": ["http://p16.muscdn.com/img/musically-maliva-obj/1638466821449733~c5_100x100.jpeg"],
+      "uri": "musically-maliva-obj/1638466821449733"
+    },
+    "is_binded_weibo": false,
+    "is_verified": true,
+    "school_name": "",
+    "birthday": "1990-06-24",
+    "nickname": "joy.test",
+    "gender": 0,
+    "ins_id": "",
+    "twitter_id": "",
+    "school_type": 0,
+    "school_poi_id": "",
+    "twitter_name": "",
+    "signature": "test experence",
+    "unique_id": "joy.deng"
+  },
+  "extra": {
+    "logid": "201907080530560101102220049447DD",
+    "now": 1562563857036,
+    "fatal_item_ids": []
+  }
+}

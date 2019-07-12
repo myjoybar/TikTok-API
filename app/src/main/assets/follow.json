@@ -1,0 +1,13 @@
+{
+  "status_code": 0,
+  "status_msg": "Followed successfully!",
+  "log_pb": {
+    "impr_id": "20190702064808010110134243263582"
+  },
+  "follow_status": 1,
+  "extra": {
+    "logid": "20190702064808010110134243263582",
+    "now": 1562050088364,
+    "fatal_item_ids": []
+  }
+}
